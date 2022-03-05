@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.9.1)
+  - ReachabilitySwift (5.0.0)
+  - SkeletonView (1.29.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - ReachabilitySwift
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ReachabilitySwift
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+
+PODFILE CHECKSUM: bbc76b80e6584aacc2032cc4ee54e968d1ee3332
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19461" systemVersion="20G224" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CountryName" representedClassName="CountryName" syncable="YES" codeGenerationType="class">
+        <attribute name="name" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Favorite" representedClassName="Favorite" syncable="YES" codeGenerationType="class">
+        <attribute name="idLeagues" optional="YES" attributeType="String"/>
+        <attribute name="strBadges" optional="YES" attributeType="String"/>
+        <attribute name="strLeagues" optional="YES" attributeType="String"/>
+        <attribute name="strYoutubes" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="CountryName" positionX="-63" positionY="-18" width="128" height="44"/>
+        <element name="Favorite" positionX="-63" positionY="-9" width="128" height="89"/>
+    </elements>
+</model>
